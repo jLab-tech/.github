@@ -2,11 +2,11 @@
 
 **Here are some ideas to get you started:**
 
-🙋‍♀️ ## How about jLab?  
+## 🙋‍♀️ How about jLab?  
 
 jLab is a little Research group, until now we have two guys and a dog ^_^.
 
-🌈 ## Contribution guidelines - how can the community get involved?
+## 🌈 Contribution guidelines - how can the community get involved?
 
 If you want to contribute to jLab, you can walk through our repo and find what you are interested in, and make PRs.
 
@@ -24,7 +24,7 @@ We build different repos and we have some logics you should know:
 1> [Textverse](https://textverse.org), a Text Metaverse engine, our [Demo]() is on the way!
 2> [gNFT](https://github.com/jLab-tech/gNFT), a Growth NFT engine, is plan on the paper, building with [FDDF:Fast DApp Develop Flow](https://github.com/jLab-tech/FDDF) + [jLab-Web3-Fullstack-Practice](https://github.com/jLab-tech/jLab-Web3-Fullstack-Practice) 
 
-🍿 ## Someting else
+## 🍿 Someting else
 ### where can the community find your docs? 
 See the readme of the special repo's README.
 
