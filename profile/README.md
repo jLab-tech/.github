@@ -15,18 +15,20 @@ If you want to contribute to jLab, you can walk through our repo and find what y
 We build different repos and we have some logics you should know:
 1. [FDDF:Fast DApp Develop Flow](https://github.com/jLab-tech/FDDF) + [jLab-Web3-Fullstack-Practice](https://github.com/jLab-tech/jLab-Web3-Fullstack-Practice) , are the routine of Web3 Stack, all the Power Practices are in there.
 
-2. We build a website, also a DeGen organization, like a DAO, so you can make something fun from our website: [jLab.tech](https://jlab.tech)
+2. We build a website, [jLab.tech](https://jlab.tech), also a DeGen organization, like a DAO, so you can make something fun from our website.
 
 
-3. Or you can visit our Blogs: [https://blog.jlab.tech](https://blog.jlab.tech)
+3. Or you can visit our Blogs: [https://blog.jlab.tech](https://blog.jlab.tech), weekly updated with tech blogs.
 
 4. Our products is here:
+
 1> [Textverse](https://textverse.org), a Text Metaverse engine, our [Demo]() is on the way!
+
 2> [gNFT](https://github.com/jLab-tech/gNFT), a Growth NFT engine, is plan on the paper, building with [FDDF:Fast DApp Develop Flow](https://github.com/jLab-tech/FDDF) + [jLab-Web3-Fullstack-Practice](https://github.com/jLab-tech/jLab-Web3-Fullstack-Practice) 
 
 ## 🍿 Someting else
 ### where can the community find your docs? 
-See the readme of the special repo's README.
+See the special repo's README.
 
 ### Is there anything else the community should know?
 No, any question, post a issue pls.
