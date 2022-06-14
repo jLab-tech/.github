@@ -1,6 +1,6 @@
-## Hi there 👋
+# Hi there 👋
 
-**Here are some ideas to get you started:**
+**About jLab**
 
 ## 🙋‍♀️ How about jLab?  
 
@@ -38,7 +38,39 @@ Wow...it depends on where we are living, we are moving and moving.
 
 Our team is full time Web3 builders and if you think what we have done is helpful, just [buy us a coffe]().
 
+# Research Area
 
+## 1.Social Capital/ Society Network
++ If I have some free time to read and write daily, I will post my articles.
++ 
+## 2.Complex System
++ I need read more and do more practices.
++ 
+## 3.Public Goods/ DAO
++ I have some ideas, need the tech stack is ready, I will deliver it to public.
++ 
+## 4.BlockChain/ Web3: jLab.tech Website Dev Plan
+### [jLab的网站](https://jlab.tech)技术选型+功能设计
+
+1.Ether.js访问inject web3，用wagmi增强hooks，实现基础功能
+
+2.React体系，务实通用，用Next实现路由等自动配置
+
+3.MUI，看起来好像比较通用，先用这个吧
+
+4.静态网页加郭宇的CoderforDAO的合约框架魔改（合适的话提pr）
+
+5.创建一个可配置的独立研究小组DAO，有基础的会员体系，grant等
+
+6.创建Growth NFT系列
+
+7.找到合适的AI generate art来创造NFT，好玩
+
+8.完成后对所有XStack18公众号开放本框架，通过随机数字验证，接入web3auth（中心化），来领取NFT
+
+9.开源，都在jLab的repo下面分别建立，视频会发布在bilibili,
+
+9.以上知识点会单独文档，独立在fullstack里面讲解过程和技巧
 
 <---
 
