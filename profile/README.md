@@ -22,21 +22,21 @@ We build different repos and we have some logics you should know:
 
 4. Our products is here:
 
-1> [Textverse](https://textverse.org), a Text Metaverse engine, our [Demo]() is on the way!
+    1> [Textverse](https://textverse.org), a Text Metaverse engine, our [Demo]() is on the way!
 
-2> [gNFT](https://github.com/jLab-tech/gNFT), a Growth NFT engine, is plan on the paper, building with [FDDF:Fast DApp Develop Flow](https://github.com/jLab-tech/FDDF) + [jLab-Web3-Fullstack-Practice](https://github.com/jLab-tech/jLab-Web3-Fullstack-Practice) 
+    2> [gNFT](https://github.com/jLab-tech/gNFT), a Growth NFT engine, is plan on the paper, building with [FDDF:Fast DApp Develop Flow](https://github.com/jLab-tech/FDDF) + [jLab-Web3-Fullstack-Practice](https://github.com/jLab-tech/jLab-Web3-Fullstack-Practice) 
 
 ## 🍿 Someting else
 ### where can the community find your docs? 
 See the special repo's README.
 
 ### Is there anything else the community should know?
-No, any question, post a issue pls.
+No, any question, post a issue at special repo pls.
 
 ### Fun facts - what does your team eat for breakfast?
 Wow...it depends on where we are living, we are moving and moving.
 
-Our team is full time Web3 builders and if you think what we have done is helpful, just buy us a coffe.
+Our team is full time Web3 builders and if you think what we have done is helpful, just [buy us a coffe]().
 
 
 
