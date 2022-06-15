@@ -51,7 +51,7 @@ Our team is full time Web3 builders and if you think what we have done is helpfu
 + 
 ## 4.BlockChain/ Web3: jLab.tech Website Dev Plan
 ### [jLab的网站](https://jlab.tech)技术选型+功能设计
-+ ![snapshot-jlab](snapshot-jlab.png)
++ ![snapshot-jlab](https://github.com/jLab-tech/website/blob/main/public/snapshot-jlab.png))
 
 1.Ether.js访问inject web3，用wagmi增强hooks，实现基础功能
 
